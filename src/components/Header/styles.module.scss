@@ -4,7 +4,7 @@
 }
 
 .headerContent {
-  max-width: 1120px;
+  max-width: 60%;
   height: 100%;
   margin: 0 auto;
   padding: 0 2rem;
@@ -49,5 +49,9 @@
         background: var(--yellow-500);
       }
     }
+  }
+
+  button {
+    margin-left: auto;
   }
 }
